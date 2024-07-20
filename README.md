@@ -25,8 +25,8 @@
 # Route API's -   
 * `POST - /Reservation/{key}` :  It will create the reservation of ticket.  
 * `PUT /Reservation/{key}` : It will update reservation of ticket. 
-* `DELETE `/Reservation/{reservationId}/{key}` : It will delete the reservation.
-* `GET - ` /Reservation/{reservationId}/{key}` -  It will delete the route detail. 
+* `DELETE - `/Reservation/{reservationId}/{key}` : It will delete the reservation.
+* `GET - `/Reservation/{reservationId}/{key}` -  It will delete the route detail. 
 
 # Route API's -   
 * `GET /route/viewAll` :  It will show all the route details 
@@ -39,8 +39,8 @@
 * `POST /user/` : User can register in db by providing details .
 * `PUT /user/{key}` : It will update the user details in db
 * `DELETE /user/{id}/{key}` : It will delete the user from Databse 
-* `GET - /user/{id}/{key}` -  It will fetch user details.
-* `GET /user/{key}` : It fetches the suer details 
+* `GET - `/user/{id}/{key}` -  It will fetch user details.
+* `GET `/user/{key}` : It fetches the suer details 
 
 
  
